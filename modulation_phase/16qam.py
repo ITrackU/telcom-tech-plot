@@ -33,4 +33,4 @@ plt.grid(True)
 plt.gca().set_aspect('equal', adjustable='box')
 
 # Save the figure
-plt.savefig("16qam_constellation_readable.png", dpi=300, bbox_inches='tight')
+plt.savefig("16qam_constellation.png", dpi=300, bbox_inches='tight')
